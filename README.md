@@ -40,4 +40,4 @@ You might to drag and drop with boards and tasks.
 
 ## Screen Trello Board
 
-[Screenshot](https://bright-tanuki-6f3764.netlify.app/trello.gif)
+![Screenshot](https://bright-tanuki-6f3764.netlify.app/trello.gif)
