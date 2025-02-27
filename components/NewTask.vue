@@ -18,9 +18,9 @@ function createTask(e: Event) {
       id: nanoid(),
     } as Task)
   }
-}
 
-title.value = ""
+  title.value = ""
+}
 </script>
 
 <template>
